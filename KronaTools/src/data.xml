@@ -1,0 +1,330 @@
+<krona>
+  <attributes magnitude="percent">
+    <attribute display="Percent">percent</attribute>
+    <attribute display="Readcount">readcount</attribute>
+  </attributes>
+  <color attribute="percent" hueend="360" huestart="0" valueend="100" valuestart="0"> </color>
+  <datasets>
+    <dataset>Abundance</dataset>
+  </datasets>
+  <node name="All" tax_id="1">
+    <percent>
+      <val>100.000</val>
+    </percent>
+    <node name="Bacteria" tax_id="2">
+      <percent>
+        <val>100.000</val>
+      </percent>
+      <node name="Proteobacteria" tax_id="1224">
+        <percent>
+          <val>27.000</val>
+        </percent>
+        <node name="Gammaproteobacteria" tax_id="1236">
+          <percent>
+            <val>20.071</val>
+          </percent>
+          <node name="Xanthomonadales" tax_id="135614">
+            <percent>
+              <val>8.868</val>
+            </percent>
+            <node name="Xanthomonadaceae" tax_id="32033">
+              <percent>
+                <val>8.868</val>
+              </percent>
+              <node name="Xanthomonas" tax_id="338">
+                <percent>
+                  <val>8.868</val>
+                </percent>
+                <node name="Xanthomonas citri group" tax_id="643453">
+                  <percent>
+                    <val>0.201</val>
+                  </percent>
+                  <node name="Xanthomonas fuscans" tax_id="366648">
+                    <percent>
+                      <val>0.201</val>
+                    </percent>
+                  </node>
+                </node>
+                <node name="Xanthomonas axonopodis" tax_id="53413">
+                  <percent>
+                    <val>8.667</val>
+                  </percent>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Vibrionales" tax_id="135623">
+            <percent>
+              <val>11.203</val>
+            </percent>
+            <node name="Vibrionaceae" tax_id="641">
+              <percent>
+                <val>11.203</val>
+              </percent>
+              <node name="Vibrio" tax_id="662">
+                <percent>
+                  <val>11.203</val>
+                </percent>
+                <node name="Vibrio cholerae" tax_id="666">
+                  <percent>
+                    <val>11.203</val>
+                  </percent>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Alphaproteobacteria" tax_id="28211">
+          <percent>
+            <val>6.929</val>
+          </percent>
+          <node name="Sphingomonadales" tax_id="204457">
+            <percent>
+              <val>0.083</val>
+            </percent>
+            <node name="Sphingomonadaceae" tax_id="41297">
+              <percent>
+                <val>0.083</val>
+              </percent>
+              <node name="Sphingomonas" tax_id="13687">
+                <percent>
+                  <val>0.083</val>
+                </percent>
+                <node name="Sphingomonas sp. Ant H11" tax_id="1564113">
+                  <percent>
+                    <val>0.083</val>
+                  </percent>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Rhodobacterales" tax_id="204455">
+            <percent>
+              <val>6.846</val>
+            </percent>
+            <node name="Rhodobacteraceae" tax_id="31989">
+              <percent>
+                <val>6.846</val>
+              </percent>
+              <node name="Rhodobacter" tax_id="1060">
+                <percent>
+                  <val>6.846</val>
+                </percent>
+                <node name="Rhodobacter sphaeroides" tax_id="1063">
+                  <percent>
+                    <val>6.846</val>
+                  </percent>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Terrabacteria group" tax_id="1783272">
+        <percent>
+          <val>63.914</val>
+        </percent>
+        <node name="Firmicutes" tax_id="1239">
+          <percent>
+            <val>54.931</val>
+          </percent>
+          <node name="Bacilli" tax_id="91061">
+            <percent>
+              <val>46.189</val>
+            </percent>
+            <node name="Lactobacillales" tax_id="186826">
+              <percent>
+                <val>20.214</val>
+              </percent>
+              <node name="Streptococcaceae" tax_id="1300">
+                <percent>
+                  <val>20.214</val>
+                </percent>
+                <node name="Streptococcus" tax_id="1301">
+                  <percent>
+                    <val>20.214</val>
+                  </percent>
+                  <node name="Streptococcus pneumoniae" tax_id="1313">
+                    <percent>
+                      <val>20.214</val>
+                    </percent>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Bacillales" tax_id="1385">
+              <percent>
+                <val>25.976</val>
+              </percent>
+              <node name="Bacillaceae" tax_id="186817">
+                <percent>
+                  <val>8.478</val>
+                </percent>
+                <node name="Bacillus" tax_id="1386">
+                  <percent>
+                    <val>8.478</val>
+                  </percent>
+                  <node name="Bacillus cereus group" tax_id="86661">
+                    <percent>
+                      <val>8.478</val>
+                    </percent>
+                    <node name="Bacillus cereus" tax_id="1396">
+                      <percent>
+                        <val>8.478</val>
+                      </percent>
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node name="Staphylococcaceae" tax_id="90964">
+                <percent>
+                  <val>17.498</val>
+                </percent>
+                <node name="Staphylococcus" tax_id="1279">
+                  <percent>
+                    <val>17.498</val>
+                  </percent>
+                  <node name="Staphylococcus aureus" tax_id="1280">
+                    <percent>
+                      <val>17.498</val>
+                    </percent>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Negativicutes" tax_id="909932">
+            <percent>
+              <val>8.569</val>
+            </percent>
+            <node name="Selenomonadales" tax_id="909929">
+              <percent>
+                <val>8.569</val>
+              </percent>
+              <node name="Veillonellaceae" tax_id="31977">
+                <percent>
+                  <val>8.569</val>
+                </percent>
+                <node name="Pelosinus" tax_id="365348">
+                  <percent>
+                    <val>8.569</val>
+                  </percent>
+                  <node name="Pelosinus fermentans" tax_id="365349">
+                    <percent>
+                      <val>8.569</val>
+                    </percent>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Clostridia" tax_id="186801">
+            <percent>
+              <val>0.173</val>
+            </percent>
+            <node name="Clostridiales" tax_id="186802">
+              <percent>
+                <val>0.173</val>
+              </percent>
+              <node name="Lachnospiraceae" tax_id="186803">
+                <percent>
+                  <val>0.173</val>
+                </percent>
+                <node name="Unclassified Lachnospiraceae" tax_id="186928">
+                  <percent>
+                    <val>0.173</val>
+                  </percent>
+                  <node name="Lachnospiraceae bacterium 2_1_46FAA" tax_id="742723">
+                    <percent>
+                      <val>0.173</val>
+                    </percent>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Actinobacteria" tax_id="201174">
+          <percent>
+            <val>8.983</val>
+          </percent>
+          <node name="Actinobacteria" tax_id="1760">
+            <percent>
+              <val>8.983</val>
+            </percent>
+            <node name="Corynebacteriales" tax_id="85007">
+              <percent>
+                <val>8.983</val>
+              </percent>
+              <node name="Mycobacteriaceae" tax_id="1762">
+                <percent>
+                  <val>8.983</val>
+                </percent>
+                <node name="Mycobacterium" tax_id="1763">
+                  <percent>
+                    <val>8.983</val>
+                  </percent>
+                  <node name="Mycobacterium chelonae group" tax_id="670516">
+                    <percent>
+                      <val>8.983</val>
+                    </percent>
+                    <node name="Mycobacterium abscessus subgroup" tax_id="670506">
+                      <percent>
+                        <val>8.983</val>
+                      </percent>
+                      <node name="Mycobacterium abscessus" tax_id="36809">
+                        <percent>
+                          <val>8.983</val>
+                        </percent>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="FCB group" tax_id="1783270">
+        <percent>
+          <val>9.086</val>
+        </percent>
+        <node name="Bacteroidetes/Chlorobi group" tax_id="68336">
+          <percent>
+            <val>9.086</val>
+          </percent>
+          <node name="Bacteroidetes" tax_id="976">
+            <percent>
+              <val>9.086</val>
+            </percent>
+            <node name="Bacteroidia" tax_id="200643">
+              <percent>
+                <val>9.086</val>
+              </percent>
+              <node name="Bacteroidales" tax_id="171549">
+                <percent>
+                  <val>9.086</val>
+                </percent>
+                <node name="Bacteroidaceae" tax_id="815">
+                  <percent>
+                    <val>9.086</val>
+                  </percent>
+                  <node name="Bacteroides" tax_id="816">
+                    <percent>
+                      <val>9.086</val>
+                    </percent>
+                    <node name="Bacteroides fragilis" tax_id="817">
+                      <percent>
+                        <val>9.086</val>
+                      </percent>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</krona>
